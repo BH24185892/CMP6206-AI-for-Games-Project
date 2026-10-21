@@ -1,6 +1,6 @@
 # Animal Zoo Experience 
 
-Using Unity Engine, I will create a scene where animals have escaped their enclosures at the the zoo and are roaming free. I plan to use Finite State Machines, Pathfinding and Behaviour Trees for the NPC's, with a range of behaviours like fleeing the player, following the player and hunting the player as well as other animals. Also including Zoo keepers who will talk to the player and chase the animals around.
+Using Unity Engine, I will create a scene where animals have escaped their enclosures at the the zoo and are roaming free. I plan to use Finite State Machines, Pathfinding and Behaviour Trees for the NPC's, with a range of behaviours like fleeing the player, following the player and hunting the player as well as other animals. Also including Zoo keepers who will talk to the player and chase the animals around. Inspiration comes from 'Moo Who', and when the animals escape enclosures in 'Zoo Tycoon' and 'Jurassic Park Evolution'
 
 
 ### TODO: Add the following details and update regularly
